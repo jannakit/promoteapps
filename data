@@ -1,4 +1,10 @@
-{"data":[
-
-]
+{
+  "data":[
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenlogo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenbanner.png",
+    "title":"Lock Screen with iOS theme",
+    "package":"com.notificationsios.lockscreenios"
+  }  
+  ]
 }
