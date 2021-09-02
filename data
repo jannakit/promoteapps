@@ -2,7 +2,7 @@
   "data":[
   {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenlogo.png",
-    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenbanner.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenbanner.jpg",
     "title":"Lock Screen with iOS theme",
     "package":"com.notificationsios.lockscreenios"
   }  
