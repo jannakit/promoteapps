@@ -1,6 +1,12 @@
 {
   "data":[
   {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/launcher_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/launcher_banner.png",
+    "title":"Launcher iOS 15",
+    "package":"com.ioslauncher.luutinhios"
+  },
+  {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenlogo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenbanner.jpg",
     "title":"Lock Screen with iOS theme",
