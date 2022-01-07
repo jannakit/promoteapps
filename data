@@ -1,34 +1,26 @@
 {
+  "active":"true",
   "data":[
   {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/launcher_logo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/launcher_banner.png",
     "title":"Launcher iOS 15",
+    "description":"Launcher iOS 15",
     "package":"com.ioslauncher.luutinhios"
   },
   {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenlogo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenbanner.jpg",
     "title":"Lock Screen with iOS theme",
+    "description":"Lock Screen with iOS theme",
     "package":"com.notificationsios.lockscreenios"
   },
   {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/abc_logo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/abc_banner.png",
     "title":"ABC Kids Game",
+    "description":"ABC Kids Game",
     "package":"com.abc.kidsgame.learningletter"
-  },
-  {
-    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/30day_logo.png",
-    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/30day_banner.png",
-    "title":"30 Days Lose Weight",
-    "package":"com.thirtydaywomenworkout.loseweight"
-  },
-  {
-    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/yoga_logo.png",
-    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/yogo_banner.png",
-    "title":"Yoga for Beginer",
-    "package":"com.loseweight.yogaworkouts"
   }
   ]
 }
