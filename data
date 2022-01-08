@@ -5,15 +5,36 @@
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/launcher_logo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/launcher_banner.png",
     "title":"Launcher iOS 15",
-    "description":"Launcher iOS 15",
+    "description":"Sets iOS style for the Android mobile operating system",
     "package":"com.ioslauncher.luutinhios"
   },
   {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenlogo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/lockscreenbanner.jpg",
-    "title":"Lock Screen with iOS theme",
-    "description":"Lock Screen with iOS theme",
+    "title":"Lock Screen iOS 15",
+    "description":"Lock screen and notifications with iOS style for Android",
     "package":"com.notificationsios.lockscreenios"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/assistivetouch_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/assistivetouch_banner.png",
+    "title":"Assistive Touch iOS 15",
+    "description":"Assistive Touch to control your device, help you perform more actions quickly",
+    "package":"com.assistivetouch.ios"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/controlios_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/controlios_banner.jpg",
+    "title":"Control Center iOS 15",
+    "description":"Instant access to the Camera, Clock, Record the screen and more",
+    "package":"com.appleios.controlcenter"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/widgetios_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/widgetios_banner.png",
+    "title":"Widgets iOS - Photos widget",
+    "description":"Create widgets with iOS style",
+    "package":"com.colorsphotowidgets.ioswidgets"
   },
   {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/abc_logo.png",
@@ -21,6 +42,55 @@
     "title":"ABC Kids Game",
     "description":"ABC Kids Game",
     "package":"com.abc.kidsgame.learningletter"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysreviewvideo.toyskid_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysreviewvideo.toyskid_banner.png",
+    "title":"Fun Toy Review Videos",
+    "description":"Welcome to Fun Toy Review Collection Videos",
+    "package":"com.toysreviewvideo.toyskid"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.funnykidsvideo.dianaplay_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.funnykidsvideo.dianaplay_banner.png",
+    "title":"Funny Kids Video - Diana Play",
+    "description":"This app will fully entertain the kids and satisfy about Diana videos",
+    "package":"com.funnykidsvideo.dianaplay"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.brazilian.funnyluccasvideos_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.brazilian.funnyluccasvideos_banner.png",
+    "title":"Brazilian Funny Videos",
+    "description":"Welcome to the brazilian funny shows, musicas & memes.",
+    "package":"com.brazilian.funnyluccasvideos"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.superslimesam.videos_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.superslimesam.videos_banner.png",
+    "title":"Super Slime Sam Videos - Comedy, DIY",
+    "description":"Newest Slime Same videos collections",
+    "package":"com.superslimesam.videos"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysvideos.funnyshow_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysvideos.funnyshow_banner.jpg",
+    "title":"Toys Videos Funny Shows",
+    "description":"Newest Toys Videos and Funny Shows collection",
+    "package":"com.toysvideos.funnyshow"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.slime.diyvideos_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.slime.diyvideos_banner.jpg",
+    "title":"Most Satisfying Slime & DIY Videos",
+    "description":"The best collection of most satisfying slime videos",
+    "package":"com.slime.diyvideos"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.likenastya.funnyvideos_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.likenastya.funnyvideos_banner.png",
+    "title":"Like Nastya Videos",
+    "description":"Welcome to Like Nastya channel",
+    "package":"com.likenastya.funnyvideos"
   }
   ]
 }
