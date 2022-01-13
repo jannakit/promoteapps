@@ -1,5 +1,5 @@
 {
-  "active":"false",
+  "active":"true",
   "data":[
   {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/launcher_logo.png",
@@ -91,6 +91,27 @@
     "title":"Like Nastya Videos",
     "description":"Welcome to Like Nastya channel",
     "package":"com.likenastya.funnyvideos"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.funnytubekids.showsvideo_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.funnytubekids.showsvideo_banner.png",
+    "title":"Funny Tube Clips 2022",
+    "description":"The world of Doll and Toys show",
+    "package":"com.funnytubekids.showsvideo"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.funnytube.englishvideo_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.funnytube.englishvideo_banner.png",
+    "title":"Funny Tube English",
+    "description":"Watch our Funny Vlogs in English",
+    "package":"com.funnytube.englishvideo"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.playbabydoll.toysvideo_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.playbabydoll.toysvideo_banner.png",
+    "title":"Play Doll & Toys Video",
+    "description":"The world of Doll and Toys",
+    "package":"com.playbabydoll.toysvideo"
   }
   ]
 }
