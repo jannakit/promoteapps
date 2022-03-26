@@ -37,13 +37,6 @@
     "package":"com.colorsphotowidgets.ioswidgets"
   },
   {
-    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/abc_logo.png",
-    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/abc_banner.png",
-    "title":"ABC Kids Game",
-    "description":"ABC Kids Game",
-    "package":"com.abc.kidsgame.learningletter"
-  },
-  {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysreviewvideo.toyskid_logo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysreviewvideo.toyskid_banner.png",
     "title":"Fun Toy Review Videos",
