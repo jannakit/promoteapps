@@ -37,6 +37,27 @@
     "package":"com.colorsphotowidgets.ioswidgets"
   },
   {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.dialer.colorscreen.iphone.ios_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.dialer.colorscreen.iphone.ios_banner.png",
+    "title":"iPhone Call - iOS Dialer",
+    "description":"Call screen with iPhone style for Android",
+    "package":"com.dialer.colorscreen.iphone.ios"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.unseenmessenger.deletedmessages_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.unseenmessenger.deletedmessages_banner.png",
+    "title":"Unseen Messenger & View Deleted Messages",
+    "description":"No last seen, no last read, see recall messages",
+    "package":"com.unseenmessenger.deletedmessages"
+  },
+  {
+    "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.nicknameforgamers.namegenerator_logo.png",
+    "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.nicknameforgamers.namegenerator_banner.png",
+    "title":"Nickname Fire - Cool Symbols",
+    "description":"Free Nickname for gamer",
+    "package":"com.nicknameforgamers.namegenerator"
+  },
+  {
     "logo":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysreviewvideo.toyskid_logo.png",
     "banner":"https://raw.githubusercontent.com/jannakit/promoteapps/main/main/com.toysreviewvideo.toyskid_banner.png",
     "title":"Fun Toy Review Videos",
